@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there, myself Tarandeep Singh! 👋
 
-<a href="https://singhtarandeep.com" target="blank">##My Website</a>
+<a href="https://singhtarandeep.com" target="blank">Checkout my Website</a>
+
+<a href="https://blog.singhtarandeep.com" target="blank">Read my Blogs</a>
+
+<a href="https://connect.singhtarandeep.com" target="blank">Connect with me</a>
+
 
 <!--
 **Tdssaini/tdssaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
