@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##My Website - <a href="https://singhtarandeep.com" target="blank">
+<a href="https://singhtarandeep.com" target="blank">##My Website</a>
 
 <!--
 **Tdssaini/tdssaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
