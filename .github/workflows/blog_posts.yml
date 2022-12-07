@@ -8,7 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: tdssaini/tdssaini
+            - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
                 feed_list: "https://dev.to/feed/tdssaini, https://medium.com/feed/@singhtarandeep, https://blog.singhtarandeep.com/feed"
