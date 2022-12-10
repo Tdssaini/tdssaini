@@ -32,7 +32,6 @@
 ### Latest Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Quick Hack – Renaming Aura Component](https://blog.singhtarandeep.com/blog/2020/01/19/quick-hack-renaming-aura-component/)
 - [Salesforce Lightning Web Component – Session 1 &lpar;Introduction&rpar;](https://blog.singhtarandeep.com/blog/2019/09/22/salesforce-lightning-web-component/)
 - [Salesforce CLI](https://blog.singhtarandeep.com/blog/2019/09/20/salesforce-cli/)
