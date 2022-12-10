@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest youtube videos workflow
 on:
   schedule:
     - cron: "0 * * * *"
