@@ -41,10 +41,10 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [TechGufa by Tarandeep Live Stream](https://www.youtube.com/watch?v=zvyMqAO1GYE)
 - [Lifeblood : Blood Donation Solution for AppExchange](https://www.youtube.com/watch?v=Tb-U_OPtmIQ)
 - [Salesforce Lightning Web Components - Session 1 &lpar;Introduction&rpar;](https://www.youtube.com/watch?v=7mjah_4Rj9g)
 - [Lifeblood : Blood Donation Solution for AppExchange](https://www.youtube.com/watch?v=oBOQYWlzL7I)
-- [AutoComplete Component in Salesforce using JQuery](https://www.youtube.com/watch?v=zhg5x_4zQNo)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
